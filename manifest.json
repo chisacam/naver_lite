@@ -1,0 +1,14 @@
+{
+    "name": "네이버 라이트",
+    "description": "네이버닦이",
+    "version": "0.1.1",
+    "manifest_version": 3,
+    "background": {
+        "service_worker": "background.js"
+    },  
+    "permissions": ["scripting"],
+    "host_permissions": [
+        "https://www.naver.com/*",
+        "https://m.naver.com/*"
+    ]
+}
