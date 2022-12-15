@@ -1,6 +1,6 @@
 # naver_lite
 
-Chrome Extensions for NAVER LITE
+Chrome Extensions for LITE NAVER
 
 검색창, 유저카드 외 필요없는 엘리먼트 제거 확장기능
 
